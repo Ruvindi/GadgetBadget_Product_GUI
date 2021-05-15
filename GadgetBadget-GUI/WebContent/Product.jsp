@@ -116,7 +116,7 @@ body {
 		<div class="collapse navbar-collapse" id="navbarCollapse">
 			<ul class="navbar-nav mr-auto sidenav" id="navAccordion">
 				<li class="nav-item ml-3"><a class="nav-link"
-					href="AdminPanel.jsp">Home </a></li>
+					href="AdminPanel.jsp">Home</a></li>
 				<!--<li class="nav-item"><a class="nav-link" href="#">Item 1</a></li> -->
 
 				<li class="nav-item active ml-3"><a
